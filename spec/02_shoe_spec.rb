@@ -13,7 +13,7 @@ describe 'Shoe' do
     it 'has a brand' do
       # When must the brand be assigned for this to work?
       expect(shoe.brand).to eq("Nike")
-@@ -35,8 +35,6 @@
+
   end
 
   describe '#cobble' do

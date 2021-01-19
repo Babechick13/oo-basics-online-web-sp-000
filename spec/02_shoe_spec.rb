@@ -30,3 +30,4 @@ describe 'Shoe' do
     end
   end
 end
+end
